@@ -1,0 +1,13 @@
+{
+  "Version": "13.5.0",
+  "Name": "Uploader.One Beta",
+  "DestinationType": "ImageUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "https://uploader.one/upload",
+  "Parameters": {
+    "username": "{{username}}",
+    "token": "{{token}}"
+  },
+  "Body": "MultipartFormData",
+  "FileFormName": "image"
+}

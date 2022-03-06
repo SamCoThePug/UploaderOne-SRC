@@ -1,0 +1,13 @@
+{
+    "bot": {
+        "token": "",
+        "prefix": "."
+    },
+    "oauth": {
+        "clientid": "",
+        "secret": "",
+        "publickey": "",
+        "scopes": "",
+        "redirect": ""
+    }
+}
