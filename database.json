@@ -1,7 +1,7 @@
 {
     "type": "mysql",
-    "username": "root",
-    "password": "acPcV7ry58ZnyBqp",
-    "host": "45.61.173.82",
-    "database": "uploader"
+    "username": "",
+    "password": "",
+    "host": "",
+    "database": ""
 }
